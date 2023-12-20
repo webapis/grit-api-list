@@ -1,0 +1,11 @@
+[
+  {
+    "title": "çizme",
+    "keywords": ["çizme"],
+    "type": "anaKategori",
+    "groupName": "ayakkabı",
+    "negative":["çorap","çorabı"]
+  }
+ 
+  
+]

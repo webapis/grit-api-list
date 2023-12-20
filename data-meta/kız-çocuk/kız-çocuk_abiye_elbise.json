@@ -1,0 +1,12 @@
+[
+  {
+    "title": "elbise",
+    "keywords": ["elbise","abiye"],
+    "type": "anaKategori",
+    "groupName": "abiye",
+    "positive":["abiye"],
+    "negative":["çanta","pantolon","ayakkabı"]
+  }
+ 
+  
+]

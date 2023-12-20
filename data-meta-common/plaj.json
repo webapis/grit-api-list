@@ -1,0 +1,16 @@
+[ {
+    "title": "üstü",
+    "keywords": ["üst", "üstü"],
+    "type": "kategori"
+  },
+  {
+    "title": "altı",
+    "keywords": ["alt", "altı"],
+    "type": "kategori"
+  },
+  {
+    "title": "mayo",
+    "keywords": ["mayo"],
+    "type": "kategori"
+  }
+]

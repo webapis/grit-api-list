@@ -1,0 +1,12 @@
+[
+    {
+      "title": "uzun-kollu",
+      "keywords": ["uzun kollu"],
+      "negative":["şort","bermuda","pantolon","eşofman","tunik"],
+      "type": "anaKategori",
+      "positive":["sweatshirt","sweat"]
+    }
+   
+    
+  ]
+  

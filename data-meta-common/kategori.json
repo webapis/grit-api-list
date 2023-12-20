@@ -1,0 +1,474 @@
+[
+  
+  {
+    "title": "plaj",
+    "keywords": ["plaj"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  },
+ 
+  {
+    "title": "gece",
+    "keywords": ["gece"],
+    "type": "kategori"
+  },
+ 
+  {
+    "title": "kot",
+    "keywords": ["kot"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  },
+  {
+    "title": "abiye",
+    "keywords": ["abiye"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  },
+  {
+    "title": "çapraz",
+    "keywords": ["çapraz"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  },
+ 
+  {
+    "title": "spor",
+    "keywords": ["spor"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  },
+  {
+    "title": "outdoor",
+    "keywords": ["outdoor"],
+    "type": "kategori"
+  },
+
+  {
+    "title": "deri görünümlü",
+    "keywords": ["deri görünümlü"],
+    "type": "kategori"
+  },
+
+  {
+    "title": "deri",
+    "keywords": ["deri"],
+    "type": "kategori",
+    "negative":["deri görünümlü"]
+  },
+  {
+    "title": "hasır",
+    "keywords": ["hasır"],
+    "type": "kategori"
+  },
+  {
+    "title": "günlük",
+    "keywords": ["günlük"],
+    "type": "kategori"
+
+  },
+  {
+    "title": "su geçirmez",
+    "keywords": ["su geçirmez"],
+    "type": "kategori"
+  },
+  {
+    "title": "oversize",
+    "keywords": ["oversize"],
+    "type": "kategori"
+  },
+  {
+    "title": "crop",
+    "keywords": ["crop"],
+    "type": "kategori"
+  },
+  {
+    "title": "ekose",
+    "keywords": ["ekose"],
+    "type": "kategori"
+  },
+  {
+    "title": "viskon",
+    "keywords": ["viskon"],
+    "type": "kategori",
+    "groupname":["kumaş"]
+  },
+  {
+    "title": "jean",
+    "keywords": ["jean"],
+    "type": "kategori"
+  },
+  {
+    "title": "jogger",
+    "keywords": ["jogger"],
+    "type": "kategori"
+  },
+ 
+  
+  {
+    "title": "yazlık",
+    "keywords": ["yazlık"],
+    "type": "kategori"
+  },
+  {
+    "title": "takım",
+    "keywords": ["takım"],
+    "type": "kategori"
+  },
+  {
+    "title": "şal yaka",
+    "keywords": ["şal yaka"],
+    "type": "kategori"
+  },
+  {
+    "title": "kare yaka",
+    "keywords": ["kare yaka"],
+    "type": "kategori"
+  },
+  {
+    "title": "şal desenli",
+    "keywords": ["şal desenli"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "triko",
+    "keywords": ["triko"],
+    "type": "kategori"
+  },
+  
+  {
+    "title": "gömlek yaka",
+    "keywords": ["gömlek yaka"],
+    "type": "kategori"
+
+  }
+  ,
+  {
+    "title": "hamile",
+    "keywords": ["hamile"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "çiçekli",
+    "keywords": ["çiçekli"],
+    "type": "kategori"
+  }
+ 
+ 
+   ,
+  {
+    "title": "uzun kollu",
+    "keywords": ["uzun kollu"],
+    "type": "kategori"
+  },
+  {
+    "title": "kısa kollu",
+    "keywords": ["kısa kollu"],
+    "type": "kategori"
+  }
+ 
+  ,
+  {
+    "title": "balon kollu",
+    "keywords": ["balon kollu"],
+    "type": "kategori"
+  }
+  ,
+ 
+  
+  {
+    "title": "degaje yaka",
+    "keywords": ["degaje yaka"],
+    "type": "kategori"
+  }
+  ,
+  
+ 
+  
+  {
+    "title": "balıkçı yaka",
+    "keywords": ["balıkçı yaka"],
+    "type": "kategori"
+  }
+  ,
+  
+  {
+    "title": "örgü",
+    "keywords": ["örgü"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "boncuklu",
+    "keywords": ["boncuklu"],
+    "type": "kategori"
+  }
+  ,
+  
+  {
+    "title": "yarasa kol",
+    "keywords": ["yarasa kol"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+ 
+  ,
+  
+  {
+    "title": "pileli",
+    "keywords": ["pileli"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  },
+  
+  
+  {
+    "title": "fular yaka",
+    "keywords": ["fular yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  
+  
+  {
+    "title": "v yaka",
+    "keywords": ["v yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "bisiklet yaka",
+    "keywords": ["bisiklet yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "kruvaze yaka",
+    "keywords": ["kruvaze yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "penye",
+    "keywords": ["penye"],
+    "type": "kategori",
+    "groupname": "kumaş"
+
+  }
+  ,
+  {
+    "title": "vintage",
+    "keywords": ["vintage"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "fırfırlı",
+    "keywords": ["fırfırlı"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "drapeli",
+    "keywords": ["drapeli"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "halter yaka",
+    "keywords": ["halter yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "tek omuz",
+    "keywords": ["tek omuz"],
+    "type": "kategori"
+  }
+ 
+   ,
+  {
+    "title": "u yaka",
+    "keywords": ["u yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "volanlı",
+    "keywords": ["volanlı"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "dantel",
+    "keywords": ["dantel"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  }
+  ,
+  {
+    "title": "kadife",
+    "keywords": ["kadife"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  }
+
+  ,
+  {
+    "title": "hakim yaka",
+    "keywords": ["hakim yaka"],
+    "type": "kategori",
+    "groupname": "yaka"
+  }
+  ,
+  {
+    "title": "güpük",
+    "keywords": ["güpür","güpürlü"],
+    "type": "kategori"
+  },
+
+
+
+
+
+
+
+  
+  {
+    "title": "dantel",
+    "keywords": ["dantel"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  }
+  ,
+  {
+    "title": "bohem",
+    "keywords": ["bohem"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  },
+  {
+    "title": "kloş",
+    "keywords": ["kloş"],
+    "type": "kategori"
+  } 
+  ,
+  {
+    "title": "şifon",
+    "keywords": ["şifon"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "saten",
+    "keywords": ["saten"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "midi",
+    "keywords": ["midi"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "mini",
+    "keywords": ["mini"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "maxi",
+    "keywords": ["maxi"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "kalem",
+    "keywords": ["kalem"],
+    "type": "kategori"
+  }
+  ,
+  
+  {
+    "title": "dökümlü",
+    "keywords": ["dökümlü"],
+    "type": "kategori",
+    "groupname": "elbise türü"
+  }
+  ,
+  {
+    "title": "uzun",
+    "keywords": ["uzun"],
+    "type": "kategori",
+    "negative":["uzun kollu","uzun kol"]
+  } 
+  ,
+  {
+    "title": "payet",
+    "keywords": ["payet"],
+    "type": "kategori"
+  },
+  {
+    "title": "balık",
+    "keywords": ["balık"],
+    "type": "kategori",
+    "negative":["balıkçı"]
+  },
+  {
+    "title": "düşük kollu",
+    "keywords": ["düşük kollu","düşük kol"],
+    "type": "kategori"
+  }
+  ,
+  
+  {
+    "title": "askılı",
+    "keywords": ["askılı","askılı"],
+    "type": "kategori",
+    "negative":["baskılı","baskı"]
+  } ,
+  
+  {
+    "title": "prenses",
+    "keywords": ["prenses"],
+    "type": "kategori"
+  },
+  
+  {
+    "title": "bohem",
+    "keywords": ["bohem"],
+    "type": "kategori",
+    "groupname": "kumaş"
+  }
+  ,
+  
+  {
+    "title": "kazayağı",
+    "keywords": ["kazayağı","kaz ayağı"],
+    "type": "kategori",
+    "groupname": "desen"
+  }
+  ,
+  
+  {
+    "title": "fermuarlı",
+    "keywords": ["fermuarlı"],
+    "type": "kategori"
+  }
+  ,
+  
+  {
+    "title": "el emeği",
+    "keywords": ["el emeği"],
+    "type": "kategori"
+  }
+]

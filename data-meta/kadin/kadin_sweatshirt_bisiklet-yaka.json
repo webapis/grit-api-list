@@ -1,0 +1,12 @@
+[
+    {
+      "title": "bisiklet-yaka",
+      "keywords": ["bisiklet yaka"],
+      "negative":["şort","bermuda","pantolon","eşofman","tunik"],
+      "type": "anaKategori",
+      "positive":["sweatshirt","sweat"]
+    }
+   
+    
+  ]
+  

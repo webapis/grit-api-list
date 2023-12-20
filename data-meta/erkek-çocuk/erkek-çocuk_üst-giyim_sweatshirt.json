@@ -1,0 +1,12 @@
+[
+    {
+      "title": "sweatshirt",
+      "keywords": ["sweatshirt"],
+      "negative":["şort","bermuda","pantolon","eşofman","tunik"],
+      "type": "anaKategori",
+      "groupName": "üst-giyim"
+    }
+   
+    
+  ]
+  

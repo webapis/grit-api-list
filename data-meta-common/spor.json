@@ -1,0 +1,19 @@
+[
+    {
+        "title": "koşu",
+        "keywords": ["koşu"],
+        "type": "kategori"
+      },
+      
+  {
+    "title": "tenis",
+    "keywords": ["tenis"],
+    "type": "kategori"
+  },
+  {
+    "title": "yoga",
+    "keywords": ["yoga"],
+    "type": "kategori",
+    "parent": ["tayt", "sütyen", "tişört", "şort", "atlet"]
+  }
+]

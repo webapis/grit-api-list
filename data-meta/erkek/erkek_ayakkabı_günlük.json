@@ -1,0 +1,12 @@
+[
+  {
+    "title": "günlük",
+    "keywords": ["günlük"],
+    "type": "anaKategori",
+    "groupName": "ayakkabı",
+    "negative":["çorabı","çorap"],
+    "positive":["ayakkabı"]
+  }
+ 
+  
+]

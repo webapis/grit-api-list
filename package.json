@@ -1,0 +1,40 @@
+{
+  "name": "grit-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "downloadData": "node utils/downloadData.mjs",
+    "indexData": "node utils/indexData.mjs",
+    "genNav": "node utils/generateNavigation.mjs",
+    "genCatNav": "node utils/generateCatNavigation.mjs",
+    "remove": "node utils/removeDir.mjs",
+    "uncatData": "node utils/indexDataUncategorized.mjs",
+    "importData": "node utils/importData.mjs",
+    "snap": "node snap.mjs"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/lab": "^5.0.0-alpha.137",
+    "@mui/material": "^5.14.0",
+    "accounting-js": "^1.1.1",
+    "algoliasearch": "^4.19.1",
+    "compressed-json": "^1.0.16",
+    "dotenv": "^16.3.1",
+    "make-dir": "^4.0.0",
+    "next": "^13.4.9",
+    "node-fetch": "2.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "swiper": "^10.2.0"
+
+  }
+}

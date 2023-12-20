@@ -1,0 +1,12 @@
+[
+    {
+      "title": "ceket",
+      "keywords": ["ceket"],
+      "type": "anaKategori",
+      "groupName": "dış-giyim",
+      "negative":["çanta","elbise","ceket yaka"]
+    }
+   
+    
+  ]
+  

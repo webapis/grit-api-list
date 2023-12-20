@@ -1,0 +1,12 @@
+[
+    {
+      "title": "oversize",
+      "keywords": ["oversize"],
+      "negative":["şort","bermuda","pantolon","eşofman","tunik"],
+      "type": "anaKategori",
+      "positive":["sweatshirt","sweat"]
+    }
+   
+    
+  ]
+  

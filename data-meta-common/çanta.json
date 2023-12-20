@@ -1,0 +1,98 @@
+[{
+    "title": "göğüs",
+    "keywords": ["göğüs"],
+    "type": "kategori"
+  },
+  {
+    "title": "laptop",
+    "keywords": ["laptop"],
+    "type": "kategori"
+  },
+  {
+    "title": "okul",
+    "keywords": ["okul"],
+    "type": "kategori"
+  },
+  {
+    "title": "bebek",
+    "keywords": ["bebek"],
+    "type": "kategori"
+  },
+  {
+    "title": "kova",
+    "keywords": ["kova"],
+    "type": "kategori"
+  },
+  {
+    "title": "Postacı",
+    "keywords": ["Postacı"],
+    "type": "kategori"
+  },
+  {
+    "title": "baskılı",
+    "keywords": ["baskılı"],
+    "type": "kategori",
+
+    "negative": ["askılı"]
+  },
+  {
+    "title": "el",
+    "keywords": ["el çanta", "el çantası"],
+    "type": "kategori"
+  },
+  {
+    "title": "tote",
+    "keywords": ["tote"],
+    "type": "kategori"
+  },
+
+  {
+    "title": "baget",
+    "keywords": ["baget"],
+    "type": "kategori"
+  },
+  {
+    "title": "alışveriş",
+    "keywords": ["alışveriş"],
+    "type": "kategori"
+  },
+  {
+    "title": "bez",
+    "keywords": ["bez"],
+    "type": "kategori"
+  },
+  {
+    "title": "kol",
+    "keywords": ["kol"],
+    "type": "kategori",
+
+    "positive":["çanta","çantası"],
+    "negative":["uzun kol","uzun kollu"]
+  },
+  {
+    "title": "sırt",
+    "keywords": ["sırt çantası"],
+    "type": "kategori"
+  },
+  {
+    "title": "omuz",
+    "keywords": ["omuz"],
+    "type": "kategori"
+  }
+  ,
+  {
+    "title": "zincirli",
+    "keywords": ["zincirli"],
+    "type": "kategori",
+    "parent": ["çanta"]
+  }
+  ,
+
+  {
+    "title": "bel",
+    "keywords": ["bel çantası"],
+    "type": "kategori",
+    "parent": ["çanta"],
+    "positive": ["çanta", "çantası"]
+  }
+]

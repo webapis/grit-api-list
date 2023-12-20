@@ -1,0 +1,12 @@
+[
+  {
+    "title": "uzun",
+    "keywords": ["uzun"],
+    "type": "anaKategori",
+    "groupName": "elbise",
+    "positive":["elbise"],
+    "negative":["uzun kollu"]
+  }
+ 
+  
+]

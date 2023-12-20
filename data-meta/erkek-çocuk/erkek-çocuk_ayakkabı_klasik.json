@@ -1,0 +1,12 @@
+[
+  {
+    "title": "klasik",
+    "keywords": ["klasik"],
+    "type": "anaKategori",
+    "groupName": "ayakkabı",
+    "negative":["çorabı","çorap"],
+    "positive":["ayakkabı"]
+  }
+ 
+  
+]

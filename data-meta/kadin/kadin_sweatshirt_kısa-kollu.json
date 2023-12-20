@@ -1,0 +1,12 @@
+[
+    {
+      "title": "kısa-kollu",
+      "keywords": ["kısa kollu"],
+      "negative":["şort","bermuda","pantolon","eşofman","tunik"],
+      "type": "anaKategori",
+      "positive":["sweatshirt","sweat"]
+    }
+   
+    
+  ]
+  

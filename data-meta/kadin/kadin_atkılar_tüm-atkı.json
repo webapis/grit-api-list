@@ -1,0 +1,11 @@
+[
+  {
+    "title": "tüm-atkı",
+    "keywords": ["şal,fular,atkı"],
+    "type": "anaKategori",
+    "groupName": "atkılar",
+    "negative":["şal detaylı","fular detaylı","eşarp"]
+  }
+ 
+  
+]

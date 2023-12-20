@@ -1,0 +1,124 @@
+[ {
+    "title": "rose",
+    "keywords": ["rose"],
+    "type": "renk"
+  },
+  {
+    "title": "vişne",
+    "keywords": ["vişne"],
+    "type": "renk"
+  },
+  {
+    "title": "mor",
+    "keywords": ["mor"],
+    "type": "renk"
+  },
+  {
+    "title": "platin",
+    "keywords": ["platin"],
+    "type": "renk"
+  },
+  {
+    "title": "altın",
+    "keywords": ["altın"],
+    "type": "renk"
+  },
+  {
+    "title": "gümüş",
+    "keywords": ["gümüş"],
+    "type": "renk"
+  },
+  {
+    "title": "gold",
+    "keywords": ["gold"],
+    "type": "renk"
+  },
+  {
+    "title": "indigo",
+    "keywords": ["indigo"],
+    "type": "renk"
+  },
+  {
+    "title": "haki",
+    "keywords": ["haki"],
+    "type": "renk",
+    "negative":["hakim"]
+  },
+  {
+    "title": "gri",
+    "keywords": ["gri"],
+    "type": "renk"
+  },
+  {
+    "title": "lacivert",
+    "keywords": ["lacivert"],
+    "type": "renk"
+  },
+  {
+    "title": "bej",
+    "keywords": ["bej"],
+    "type": "renk"
+  },
+  {
+    "title": "pembe",
+    "keywords": ["pembe"],
+    "type": "renk"
+  },
+  {
+    "title": "sarı",
+    "keywords": ["sarı"],
+    "type": "renk"
+  },
+  {
+    "title": "beyaz",
+    "keywords": ["beyaz"],
+    "type": "renk"
+  },
+  {
+    "title": "kırmızı",
+    "keywords": ["kırmızı"],
+    "type": "renk"
+  },
+  {
+    "title": "siyah",
+    "keywords": ["siyah"],
+    "type": "renk"
+  },
+  {
+    "title": "fuşya",
+    "keywords": ["fuşya"],
+    "type": "renk"
+  },
+  {
+    "title": "turuncu",
+    "keywords": ["turuncu"],
+    "type": "renk"
+  },
+  {
+    "title": "yeşil",
+    "keywords": ["yeşil"],
+    "type": "renk"
+  },
+  {
+    "title": "mavi",
+    "keywords": ["mavi"],
+    "type": "renk"
+  },
+  {
+    "title": "kahve",
+    "keywords": ["kahve"],
+    "type": "renk"
+  }
+  ,
+  {
+    "title": "bordo",
+    "keywords": ["bordo"],
+    "type": "renk"
+  }
+  ,
+  {
+    "title": "zümrüt",
+    "keywords": ["zümrüt"],
+    "type": "renk"
+  }
+]

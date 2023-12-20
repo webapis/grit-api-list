@@ -1,0 +1,12 @@
+[
+  {
+    "title": "casual",
+    "keywords": ["casual"],
+    "type": "anaKategori",
+    "groupName": "ayakkabı",
+    "negative":["çorabı","çorap"],
+    "positive":["ayakkabı"]
+  }
+ 
+  
+]

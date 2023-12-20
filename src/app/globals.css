@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+ .navigation {
+  font-family: Poppins , sans-serif;
+  padding: 16px;
+}
+
+.navigation__search {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.navigation__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.navigation__checkbox {
+  margin-right: 8px;
+}
+
+.navigation__label {
+  font-size: 14px;
+}
+
+.navigation__count {
+  margin-left: auto;
+  font-size: 12px;
+  background-color: #f44336;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.navigation__button {
+  font-size: 14px;
+  margin-top: 8px;
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+
+/* Customizing the vertical scrollbar */
+/* width of the scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* adjust as needed */
+}
+
+/* Track (the background) of the scrollbar */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* adjust as needed */
+}
+
+/* Handle (the draggable part) of the scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #888; /* adjust as needed */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* adjust as needed */
+}
+
+
+/* Customizing the horizontal scrollbar */
+/* height of the scrollbar */
+::-webkit-scrollbar {
+  height: 10px; /* adjust as needed */
+}
+
+/* Track (the background) of the scrollbar */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* adjust as needed */
+}
+
+/* Handle (the draggable part) of the scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #888; /* adjust as needed */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* adjust as needed */
+}

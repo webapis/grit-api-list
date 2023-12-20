@@ -1,0 +1,13 @@
+[
+    {
+      "title": "ayakkabı",
+      "keywords": ["ayakkabı","sneaker","sneakers","koşu","tenis"],
+      "type": "anaKategori",
+      "groupName": "spor",
+      "positive":["spor","sneaker"],
+      "negative":["turnlock"]
+    }
+   
+    
+  ]
+  
